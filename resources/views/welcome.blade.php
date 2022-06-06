@@ -148,7 +148,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                <a class="nav-link active" aria-current="page" href="#">Index</a>
                 </li>
                 <li class="nav-item">
                 <a class="nav-link" href="{{ route('task.create') }}">New Task</a>
@@ -176,7 +176,7 @@
 
         {{-- Body --}}
         <div class="container p-5">
-            <h4 class="pb-3">My Space</h4>
+            <h4 class="pb-3">My Index</h4>
             <div class="card">
                 <div class="card-header">
                     First Task

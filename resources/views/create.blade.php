@@ -1,8 +1,8 @@
-{{-- @extends('resources\views\welcome.blade.php')
+@extends('welcome')
 
 @section('main-content')
 <div class="container p-5">
-    <h4 class="pb-3">My Index</h4>
+    <h4 class="pb-3">Create Task</h4>
     <div class="card">
         <div class="card-header">
             First Task
@@ -14,4 +14,4 @@
         </div>
     </div>
 </div>
-@endsection --}}
+@endsection

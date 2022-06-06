@@ -16,9 +16,8 @@ use App\Http\Controllers\TaskController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
-
 
 /*
 work with web.php for web development, api.php if working with api.php
