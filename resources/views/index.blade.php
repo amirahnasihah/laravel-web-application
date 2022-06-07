@@ -13,11 +13,11 @@
     <div class="clearfix"></div>
 </div>
 
-@foreach ($tasks as $task)
+
     <div class="card">
         <div class="card-header">
             <!--title task-->
-            {{ $task->title }}
+            Title
             <span class="badge rounded-pill text-bg-warning">time</span>
         </div>
         <div class="card-body">
@@ -40,7 +40,7 @@
             </div>
         </div>
     </div>
-@endforeach
+
 
 
 @endsection
