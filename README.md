@@ -8,8 +8,8 @@
 </p>
 
 
-# 🛳 Link Demo Web
-[Deploy]() to Heroku via Git: https://laravel-test-runcloud.herokuapp.com/
+# 🛳 Link to Demo App
+[Deploy](https://laravel-test-runcloud.herokuapp.com/) to Heroku via Git: https://laravel-test-runcloud.herokuapp.com/
 
 ## About Laravel
 
@@ -24,9 +24,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Demo
-Deploy to Heroku via Git: https://laravel-test-runcloud.herokuapp.com/
 
 ## Learning Laravel
 
