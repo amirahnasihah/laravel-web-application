@@ -10,6 +10,7 @@
 
 # 🛳 Link to Demo App
 
+heroku no longer support free tier as i deployed this using heroku.
 
 <!--- [Deploy](https://laravel-test-runcloud.herokuapp.com/) to Heroku via Git: https://laravel-test-runcloud.herokuapp.com/ -->
 
